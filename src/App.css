@@ -1,0 +1,39 @@
+.App {
+  background-color: #ffffff;
+  height: auto;
+  
+}
+.header{
+  text-align: center;
+  background-color: #ffffff;
+}
+.body{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+h1 span {
+  color: #f49740;
+}
+
+.custom-shape-divider-bottom-1637255790 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1637255790 svg {
+    position: relative;
+    display: block;
+    width: calc(161% + 1.3px);
+    height: 86px;
+}
+
+.custom-shape-divider-bottom-1637255790 .shape-fill {
+    fill: #F49740;
+}
