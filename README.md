@@ -7,6 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm install`
 
+and
+
+### `npm i ez-react-table`
+
 Open [EZReactTable](https://www.npmjs.com/package/ez-react-table)
 
 
